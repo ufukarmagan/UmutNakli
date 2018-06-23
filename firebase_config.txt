@@ -1,0 +1,9 @@
+var config = {
+    apiKey: "AIzaSyDgNRUFHcKk9Xo1Fja7F7qPSICScq-qjsI",
+    authDomain: "umutnakli.firebaseapp.com",
+    databaseURL: "https://umutnakli.firebaseio.com",
+    projectId: "umutnakli",
+    storageBucket: "umutnakli.appspot.com",
+    messagingSenderId: "410273443277"
+  };
+  firebase.initializeApp(config)
